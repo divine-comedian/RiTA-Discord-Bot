@@ -1,4 +1,3 @@
 node_modules
-build
-translator.db
-.env
+local_setting
+.vscode
